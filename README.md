@@ -1,4 +1,6 @@
 # Pink-Noise-RE
+This is the official code base for the reproducibility experimentation on the paper [PINK NOISE IS ALL YOU NEED](https://openreview.net/forum?id=hQ9V5QN27eS), along with the implementation of spatio-temporal noise as our extension to standard pink noise implementation. 
+
 
 ## Contents
 The repo is divided into 5 sections 
